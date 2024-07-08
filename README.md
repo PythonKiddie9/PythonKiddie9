@@ -29,4 +29,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![PythonKiddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=PythonKiddie9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
