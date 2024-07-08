@@ -8,5 +8,5 @@
 
 ⚡ I’m currently learning and building capacity in python and C#, so expect lots of projects and resources that could posibbly help automate some of your work. 
 
-[![PythonKiddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=PythonKiddie9)](https://github.com/anuraghazra/github-readme-stats)
+[![PythonKiddie's GitHub stats](https://github-readme-stats.vercel.app/api?username=PythonKiddie9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
